@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Shukurullodev
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on uzbekistan
 - 📫 How to reach me tbekamov@gmail.com.
 
 <!---
