@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shukurullodev
+- 👋 Hi, I’m Shukurullo
 - 📫 How to reach me tbekamov@gmail.com.
 
 <!---
