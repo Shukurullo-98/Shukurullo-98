@@ -6,8 +6,8 @@ Shukurullodev/Shukurullodev is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 - My skills
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)}" />
 
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white
 https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
